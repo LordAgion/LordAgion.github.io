@@ -1,0 +1,7 @@
+.jumbotron{
+    background-size: cover;
+    height: 30vh;
+    text-align: right;
+    color: var(--text);
+    background-color: var(--color2)
+}

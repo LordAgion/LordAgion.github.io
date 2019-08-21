@@ -1,0 +1,32 @@
+@import "variables.css";
+@import "about.css";
+@import "body.css";
+@import "footer.css";
+@import "header.css";
+@import "navbar.css";
+@import "projects.css";
+@import "contact.css";
+
+body{
+    background: url(../assets/stars2.jpg);
+    scroll-behavior: smooth;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.btn-danger{
+    background-color: var(--color1)
+}
+
+h2{
+    color: var(--text);
+}
+label{
+    color: var(--text); 
+}
+p{
+    color: var(--text); 
+}

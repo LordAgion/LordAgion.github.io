@@ -1,0 +1,25 @@
+#contact {
+    display: none
+}
+button{
+    
+      border: none;
+      padding: 0px 0px;
+      text-decoration: none;
+      display: inline-block;
+    
+    }
+h2 {
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+
+}
+a:hover{
+    color:white;
+    text-decoration: none;
+}
