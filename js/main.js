@@ -7,3 +7,5 @@ $(document).ready(function(){
         $("#text1").toggle();
     });
 });
+
+document.addEventListener('submit', buttonPush)
